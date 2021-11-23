@@ -1,0 +1,11 @@
+git init
+git add .
+
+git remote set-url origin https://github.com/Ankithorizon/SS-WebAPI.git
+git remote add origin https://github.com/Ankithorizon/SS-WebAPI.git
+
+git remote -v
+git commit -m "first commit"
+git branch -M main
+
+git push -u origin main

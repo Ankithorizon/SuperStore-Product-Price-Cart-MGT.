@@ -1,0 +1,205 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+.mainContainer{
+  padding-top: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
+  padding-left: 50px;
+}
+.tutorialDetails{
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
+.uploadProductImageFirst{
+  color: white;
+  background-color: blue;
+  font-size: larger;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.productsTable{
+  color: white;
+}
+.productDetails{
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+.displayPrice{
+  color: blue;
+  font-size: medium;
+}
+.displayCurrentPrice{
+  color: green;
+  font-size: larger;
+}
+.displayCurrentPriceInTable{
+  color: white;
+  font-size: larger;
+  font-weight: bold;
+  
+}
+
+.paymentCartTotal{
+  color: blue;
+  font-size: x-large;
+}
+
+input.exp {
+  float: left;
+  font-family: monospace;
+  border: 0;
+  width: 18px;
+  outline: none;
+  appearance: none;
+  font-size: 14px;
+}
+
+.invalid-feedback{
+  color: red;
+}
+
+.salesProgressDataList_UP{
+  color: green;
+  font-size: larger;
+  font-weight: bold;
+}
+.salesProgressDataList_DOWN{
+  color: red;
+  font-size: larger;
+  font-weight: bold;
+}
+.salesProgressDataList_REF{
+  color:blue;
+  font-size: medium;
+  font-weight: bold;
+}
+.salesProgressHeader{
+  color:white;
+  font-size: medium;
+  font-weight: bold;
+  background-color: black;
+}
+.productInfo{
+  color: crimson;
+  font-size: medium;
+  font-weight: bold;
+   border: 3;
+   border-color: blueviolet;
+   border-style: dotted;  
+    text-align: center;
+vertical-align: middle;
+}
+
+.salesProgressInfo{ 
+   border: 3;
+   border-color: blueviolet;
+   border-style: dotted;
+   margin-top: 20px;
+   padding-left: 20px;
+   margin-left: 20px;
+   padding-top: 20px;
+}
+
+.selectedMonthProductWiseTextHeader{
+   border: 3;
+   border-color: blueviolet;
+   border-style: dotted;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   color: coral;
+   font-size: larger;
+   font-weight: bold;   
+   text-align: center;
+vertical-align: middle;
+}
+.monthlyStoreWiseTextHeader{
+   border: 3;
+   border-color: greenyellow;
+   border-style: dotted;
+  padding-top: 10px;
+   padding-bottom: 10px;
+   color: coral;
+   font-size: larger;
+   font-weight: bold;
+   text-align: center;
+vertical-align: middle;
+}
+.monthlyProductWiseTextHeader{
+   border: 3;
+   border-color: green;
+   border-style: dotted;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   color: coral;
+   font-size: larger;
+   font-weight: bold;
+   text-align: center;
+vertical-align: middle;
+}
+
+.chartDataErrorMessage{
+   border: 3;
+   border-color: red;
+   border-style: solid;
+   padding-top: 10px;
+   padding-bottom: 10px;
+    padding-left: 10px;
+   padding-right: 10px;
+   color: red;
+   font-size: x-large;
+   font-weight: bold;
+   text-align: center;
+vertical-align: middle;
+}
+
+.loginRegisterButton{
+    text-align: center;
+vertical-align: middle;
+}
+.registerButtonWidth {
+  width: 200px;
+}
+.loginButtonWidth {
+  width: 150px;
+}
+
+.myCartHeader{
+    text-align: center;
+vertical-align: middle;
+color:blue;
+}
+
+.paymentButton
+{
+   width: 150px;
+}
+.moreShoppingButton {
+  width:250px;
+}
+
+.homePageHeader{
+    text-align: center;
+vertical-align: middle;
+color:blue;
+background-color:lightyellow;
+padding-bottom: 10px;
+padding-top: 10px;
+  border: 2px solid red;
+  border-radius: 20px;
+}

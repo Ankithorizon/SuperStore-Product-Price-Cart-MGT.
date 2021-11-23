@@ -1,0 +1,80 @@
+payment by
+	OK- cash (equal to cart-total-amount)
+	OK- credit card (cc - validation)
+
+OK- check if my-cart from local-storage N/A @ my-cart component
+OK- check if cart-total amount from local-storage N/A @ payment component
+
+OK- check for model validation - catch and display model validation @ react side form
+
+OK- check for transaction @ bill create process
+
+Unit-Test
+	OK- ProductController 
+	- ProductSellController
+
+OK- display bill when bill-create-success
+
+Text/Chart Report 
+	OK - check if product has no image
+		- display N/A instead of image in select list @ UI
+	OK - display current price in select list of products @ UI
+
+	OK - Monthly Total Sales of Store
+		- select year @ UI
+			- display table with data shows Monthly Total Sales for all Products
+				[ January - xx.yy
+				  February - Nill
+				  March - xx.yy ]
+	OK - Monthly Product wise Total Sales
+
+	OK - Yearly Product wise Total Sales
+
+	OK - Product - Discount wise Total Sales
+
+OK - amount-paid (round up/down to 0 or 5 last digit)
+xx.32 = xx.30
+xx.33 = xx.35
+	
+OK - product has NO IMAGE => Upload Image for that product 
+
+OK - display error message (model validation errors/api server error message)
+when login fails
+
+OK - connect Text-Report and Chart-Report to Manager Role
+	and disconnect to everyone else
+
+OK - display current discount price and current discount percentage 
+when manager is setting up new discount for a product
+
+OK - fix home component
+
+OK - remove ProductFileId from UIs
+
+OK - display error message (model validation errors/api server error message)
+when register fails
+
+OK - discount-profile (Chart Report)
+product-discount bar chart with data showing year 
+and increase/decrease in total-sales % to discount wise
+year - 2021
+discount -> 10% - total-sales -> 1000
+discount -> 20% - total-sales -> 1200 ----> 20% UP 
+discount -> 30% - total-sales -> 1500 ----> 50% UP 
+discount -> 5% - total-sales -> 900 ----> 10% DOWN 
+
+OK - Apply styles to TextReport - ChartReport 
+
+OK - screen shots to .git
+
+OK - fix register component that pass role info to api 
+
+OK - fix api that returns dynamic roles from database
+
+OK - password - confirm password match 
+
+OK - take 2 column layout for register view
+
+OK - do as much as possible in code reduction
+
+OK - uploaded file should be order by date desc or file name asc

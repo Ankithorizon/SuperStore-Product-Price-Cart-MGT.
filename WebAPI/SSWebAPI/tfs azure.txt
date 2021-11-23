@@ -1,0 +1,4 @@
+
+git remote add origin https://ankitjpatel2007@dev.azure.com/ankitjpatel2007/SS-React/_git/SS-React
+git remote set-url origin https://ankitjpatel2007@dev.azure.com/ankitjpatel2007/SS-React/_git/SS-React
+git push -u origin --all

@@ -1,0 +1,15 @@
+﻿Package Manager Commands,,,
+
+Add-Migration initial-commit -context SS.Entity.Context.SSContext -OutputDir Migrations
+update-database -context SS.Entity.Context.SSContext
+
+
+EntityFrameworkCore\Add-Migration adding-discount-history-table -context SS.Entity.Context.SSContext -OutputDir Migrations
+EntityFrameworkCore\update-database -context SS.Entity.Context.SSContext
+
+EntityFrameworkCore\Add-Migration initial-auth-db-create -context SS.Entity.Context.Authentication.ApplicationDbContext -OutputDir AuthenticationMigrations
+EntityFrameworkCore\update-database -context SS.Entity.Context.Authentication.ApplicationDbContext
+
+
+
+

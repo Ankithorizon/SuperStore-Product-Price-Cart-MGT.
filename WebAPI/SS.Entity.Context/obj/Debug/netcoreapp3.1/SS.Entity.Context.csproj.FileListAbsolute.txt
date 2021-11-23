@@ -1,0 +1,11 @@
+C:\SuperStore\SSAPI\SS.Entity.Context\bin\Debug\netcoreapp3.1\SS.Entity.Context.deps.json
+C:\SuperStore\SSAPI\SS.Entity.Context\bin\Debug\netcoreapp3.1\SS.Entity.Context.runtimeconfig.json
+C:\SuperStore\SSAPI\SS.Entity.Context\bin\Debug\netcoreapp3.1\SS.Entity.Context.runtimeconfig.dev.json
+C:\SuperStore\SSAPI\SS.Entity.Context\bin\Debug\netcoreapp3.1\SS.Entity.Context.dll
+C:\SuperStore\SSAPI\SS.Entity.Context\bin\Debug\netcoreapp3.1\SS.Entity.Context.pdb
+C:\SuperStore\SSAPI\SS.Entity.Context\obj\Debug\netcoreapp3.1\SS.Entity.Context.AssemblyInfoInputs.cache
+C:\SuperStore\SSAPI\SS.Entity.Context\obj\Debug\netcoreapp3.1\SS.Entity.Context.AssemblyInfo.cs
+C:\SuperStore\SSAPI\SS.Entity.Context\obj\Debug\netcoreapp3.1\SS.Entity.Context.csproj.CoreCompileInputs.cache
+C:\SuperStore\SSAPI\SS.Entity.Context\obj\Debug\netcoreapp3.1\SS.Entity.Context.dll
+C:\SuperStore\SSAPI\SS.Entity.Context\obj\Debug\netcoreapp3.1\SS.Entity.Context.pdb
+C:\SuperStore\SSAPI\SS.Entity.Context\obj\Debug\netcoreapp3.1\SS.Entity.Context.genruntimeconfig.cache

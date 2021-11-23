@@ -1,0 +1,15 @@
+C:\SuperStore\SSAPI\SS.Service\bin\Debug\netcoreapp3.1\SS.Service.deps.json
+C:\SuperStore\SSAPI\SS.Service\bin\Debug\netcoreapp3.1\SS.Service.runtimeconfig.json
+C:\SuperStore\SSAPI\SS.Service\bin\Debug\netcoreapp3.1\SS.Service.runtimeconfig.dev.json
+C:\SuperStore\SSAPI\SS.Service\bin\Debug\netcoreapp3.1\SS.Service.dll
+C:\SuperStore\SSAPI\SS.Service\bin\Debug\netcoreapp3.1\SS.Service.pdb
+C:\SuperStore\SSAPI\SS.Service\bin\Debug\netcoreapp3.1\SS.Entity.Context.dll
+C:\SuperStore\SSAPI\SS.Service\bin\Debug\netcoreapp3.1\SS.Entity.Context.pdb
+C:\SuperStore\SSAPI\SS.Service\obj\Debug\netcoreapp3.1\SS.Service.csproj.AssemblyReference.cache
+C:\SuperStore\SSAPI\SS.Service\obj\Debug\netcoreapp3.1\SS.Service.AssemblyInfoInputs.cache
+C:\SuperStore\SSAPI\SS.Service\obj\Debug\netcoreapp3.1\SS.Service.AssemblyInfo.cs
+C:\SuperStore\SSAPI\SS.Service\obj\Debug\netcoreapp3.1\SS.Service.csproj.CoreCompileInputs.cache
+C:\SuperStore\SSAPI\SS.Service\obj\Debug\netcoreapp3.1\SS.Service.csproj.CopyComplete
+C:\SuperStore\SSAPI\SS.Service\obj\Debug\netcoreapp3.1\SS.Service.dll
+C:\SuperStore\SSAPI\SS.Service\obj\Debug\netcoreapp3.1\SS.Service.pdb
+C:\SuperStore\SSAPI\SS.Service\obj\Debug\netcoreapp3.1\SS.Service.genruntimeconfig.cache
