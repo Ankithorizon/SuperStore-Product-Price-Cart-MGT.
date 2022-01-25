@@ -29,62 +29,7 @@ Technology
 ![System Dia drawio](https://user-images.githubusercontent.com/26190114/142509333-706c9f3d-9a86-4f5c-946b-2dabe32a8f11.png)
 
 
-### ---> exceptions handling
 
-	  - Model validations are handled on Client side - React - Component
-	  - all Server side exceptions are handled on Api - Controller / C# Service
-    
-### ---> [Role based Authentication]
-
-	- JWT Authentication
-	- after successful login, respective Role is returned in Token / Response
-	- React stores Role info with Token
-	- Menu displays as per Role info
-	
-	
-### ---> [register]
-
-	- User can register with valid Username, Password, Email and Role [Admin/Manager/CSUser]
-	- after successful registration, user is redirected to login page
-	- after un-successful register, error message is displayed 
-
-
-### ---> [login]
-
-	- User can login with valid Username and Password
-	- after successful login, Token, Role and other User's information is stored
-		on Client side and menu options are displayed as per User's Role and redirects to Home page
-	- after un-successful sign-in, error message is displayed 
-    
-### ---> Admin : Role
-
-	- User can add / edit / view Product
-	- User can add Product with Image upload
-	- User can edit Product with Image edit and upload 
-	
-### ---> Manager : Role
-
-	- User can view Product
-	- User can set Discount on Product 
-	- User can View Text Report on
-		- [Monthly]-Product-Wise
-   		- [Monthly]-Store-Wise
-   		- Selected Product-Month-Wise
-	- User can View Chart (google chart api) Report on
-		- Product-Discount-Wise
-   		- [Monthly]-Product-Wise
-   		- [Monthly]-Store-Wise
-	
-### ---> CSUser : Role
-
-	- User can view Product
-	- User can filter Product by Product-Name, Product-Description and Product-Category
-	- User can shop Product by adding Products and Product-Quantity to Shopping-Cart
-	- User can edit Shopping-Cart
-	- User can do Payment by either Cash or Credit-Card
-	- User can View Payment-Receipt after successful Payment
-	
-	
 # Screens->
 
 ## Home->
@@ -214,6 +159,62 @@ Technology
 
 
 
+
+### ---> exceptions handling
+
+	  - Model validations are handled on Client side - React - Component
+	  - all Server side exceptions are handled on Api - Controller / C# Service
+    
+### ---> [Role based Authentication]
+
+	- JWT Authentication
+	- after successful login, respective Role is returned in Token / Response
+	- React stores Role info with Token
+	- Menu displays as per Role info
+	
+	
+### ---> [register]
+
+	- User can register with valid Username, Password, Email and Role [Admin/Manager/CSUser]
+	- after successful registration, user is redirected to login page
+	- after un-successful register, error message is displayed 
+
+
+### ---> [login]
+
+	- User can login with valid Username and Password
+	- after successful login, Token, Role and other User's information is stored
+		on Client side and menu options are displayed as per User's Role and redirects to Home page
+	- after un-successful sign-in, error message is displayed 
+    
+### ---> Admin : Role
+
+	- User can add / edit / view Product
+	- User can add Product with Image upload
+	- User can edit Product with Image edit and upload 
+	
+### ---> Manager : Role
+
+	- User can view Product
+	- User can set Discount on Product 
+	- User can View Text Report on
+		- [Monthly]-Product-Wise
+   		- [Monthly]-Store-Wise
+   		- Selected Product-Month-Wise
+	- User can View Chart (google chart api) Report on
+		- Product-Discount-Wise
+   		- [Monthly]-Product-Wise
+   		- [Monthly]-Store-Wise
+	
+### ---> CSUser : Role
+
+	- User can view Product
+	- User can filter Product by Product-Name, Product-Description and Product-Category
+	- User can shop Product by adding Products and Product-Quantity to Shopping-Cart
+	- User can edit Shopping-Cart
+	- User can do Payment by either Cash or Credit-Card
+	- User can View Payment-Receipt after successful Payment
+	
 
 
 
