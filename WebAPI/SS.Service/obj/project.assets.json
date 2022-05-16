@@ -6027,11 +6027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SuperStore\\SSAPI\\SS.Service\\SS.Service.csproj",
+      "projectUniqueName": "C:\\Super-Store-Product-Price-Cart-MGT\\WebAPI\\SS.Service\\SS.Service.csproj",
       "projectName": "SS.Service",
-      "projectPath": "C:\\SuperStore\\SSAPI\\SS.Service\\SS.Service.csproj",
+      "projectPath": "C:\\Super-Store-Product-Price-Cart-MGT\\WebAPI\\SS.Service\\SS.Service.csproj",
       "packagesPath": "C:\\Users\\ankit_2\\.nuget\\packages\\",
-      "outputPath": "C:\\SuperStore\\SSAPI\\SS.Service\\obj\\",
+      "outputPath": "C:\\Super-Store-Product-Price-Cart-MGT\\WebAPI\\SS.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6051,8 +6051,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\SuperStore\\SSAPI\\SS.Entity.Context\\SS.Entity.Context.csproj": {
-              "projectPath": "C:\\SuperStore\\SSAPI\\SS.Entity.Context\\SS.Entity.Context.csproj"
+            "C:\\Super-Store-Product-Price-Cart-MGT\\WebAPI\\SS.Entity.Context\\SS.Entity.Context.csproj": {
+              "projectPath": "C:\\Super-Store-Product-Price-Cart-MGT\\WebAPI\\SS.Entity.Context\\SS.Entity.Context.csproj"
             }
           }
         }

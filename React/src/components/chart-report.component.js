@@ -64,14 +64,23 @@ export default class ChartReport extends Component {
 
     getYears() {
         this.setState({
-            years: [...this.state.years, ...[
-                {
-                    yearId: 2021, yearNumber: '2021'
-                },
-                {
-                    yearId: 2020, yearNumber: '2020'
-                }
-            ]]
+          years: [
+            ...this.state.years,
+            ...[
+              {
+                yearId: 2022,
+                yearNumber: "2022",
+              },
+              {
+                yearId: 2021,
+                yearNumber: "2021",
+              },
+              {
+                yearId: 2020,
+                yearNumber: "2020",
+              },
+            ],
+          ],
         });
     }
     getProducts() {
@@ -97,7 +106,7 @@ export default class ChartReport extends Component {
                                 </span>
                                 <span> - </span>
                                 <span>
-                                    [ ${item.currentPrice} ]
+                                    [ $ {item.currentPrice} ]
                                 </span>
                             </div>
                     }

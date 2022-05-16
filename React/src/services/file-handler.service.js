@@ -1,4 +1,4 @@
-import fileHttp from "../file-http-common";
+import fileHttp from "../axios/file-http-common";
 import authHeader from './auth-header';
 
 class FileHandlerService {

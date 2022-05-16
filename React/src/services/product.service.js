@@ -1,4 +1,4 @@
-import productHttp from "../product-http-common";
+import productHttp from "../axios/product-http-common";
 import authHeader from './auth-header';
 
 class ProductDataService {

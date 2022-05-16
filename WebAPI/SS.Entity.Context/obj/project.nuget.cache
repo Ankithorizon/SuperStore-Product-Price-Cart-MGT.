@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hnJReVygmILIlCUciGWWBS5agThekstuJ+2fvj6QHdvpVFPHpy7QkWkFVeyYO/pOospzUPlh3B8YxNn5gvJGfQ==",
+  "dgSpecHash": "nZ3f469LtMuK/mu3+KuA/XVQcS7eoesa+A7mcTnhfTTIKsNflocksyie0XUMEDAV4LbartThDFGIUd2AG+afMg==",
   "success": true,
-  "projectFilePath": "C:\\SuperStore\\SSAPI\\SS.Entity.Context\\SS.Entity.Context.csproj",
+  "projectFilePath": "C:\\Super-Store-Product-Price-Cart-MGT\\WebAPI\\SS.Entity.Context\\SS.Entity.Context.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ankit_2\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\ankit_2\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

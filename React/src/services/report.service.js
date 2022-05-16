@@ -1,4 +1,4 @@
-import reportHttp from "../report-http-common";
+import reportHttp from "../axios/report-http-common";
 import authHeader from './auth-header';
 
 class ReportDataService {

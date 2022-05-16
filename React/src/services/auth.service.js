@@ -1,4 +1,4 @@
-import http from "../auth-http-common";
+import http from "../axios/auth-http-common";
 
 class AuthService {
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nBpON1NRiKmVhnOMbMYfDYBMnqKBNtj9ICoejmGAEpamqPACNOI1Y8U4atMI0dsg80x7wtgIJU0Rw+QXBBq4VQ==",
+  "dgSpecHash": "UU8Cs0nHYLnxD9E5ewOy0Dp12Q/5gWIAG9NfLMdJ+3Zuaw7I8m0I3T7DDX35oOZsmhcwBLrq13hMTy4Qp4GqVQ==",
   "success": true,
-  "projectFilePath": "C:\\SuperStore\\SSAPI\\SS.Test\\SS.Test.csproj",
+  "projectFilePath": "C:\\Super-Store-Product-Price-Cart-MGT\\WebAPI\\SS.Test\\SS.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ankit_2\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\ankit_2\\.nuget\\packages\\autofac.extras.moq\\6.0.0\\autofac.extras.moq.6.0.0.nupkg.sha512",
